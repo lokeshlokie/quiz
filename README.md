@@ -1,2 +1,2 @@
 # quiz
-Angular 11 Quiz and creates controls dynamically
+Angular Quiz and creates controls dynamically
